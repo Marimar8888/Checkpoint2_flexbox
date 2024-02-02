@@ -41,3 +41,16 @@
 .flexThree > .square {
     margin: 2px;
 }
+
+/* Flexbox 4 Exercise Styles*/
+
+.flexFour {
+    display: flex;
+    flex-wrap: wrap;
+    width: 350px;
+}
+
+.flexFour  > .square  {
+    background-color: #3d8b6d;
+    margin: 5px;   
+}
