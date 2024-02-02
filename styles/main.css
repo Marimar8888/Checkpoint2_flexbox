@@ -7,3 +7,15 @@
 .flex {
     margin: 10px;
 }
+
+/* Flexbox 1 Exercise Styles*/
+
+.flexOne {
+    display: flex;
+    flex-direction: row;
+}
+
+.flexOne > .square {
+    margin: 5px;
+}
+
