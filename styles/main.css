@@ -19,3 +19,13 @@
     margin: 5px;
 }
 
+/* Flexbox 2 Exercise Styles*/
+
+.flexTwo {
+    display: flex;
+    flex-direction: column;
+}
+
+.flexTwo > .square {
+    margin: 2px;
+}
