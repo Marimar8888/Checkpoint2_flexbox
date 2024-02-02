@@ -29,3 +29,15 @@
 .flexTwo > .square {
     margin: 2px;
 }
+
+/* Flexbox 3 Exercise Styles*/
+
+.flexThree {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;  /*No lo pedía el ejercicio por eso lo comento, pero en la foto se ve en el lado izquierdo */
+}
+
+.flexThree > .square {
+    margin: 2px;
+}
