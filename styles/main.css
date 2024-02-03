@@ -142,3 +142,27 @@
     justify-content: space-between;
     background-color: #d6d6d6;
 }
+
+/* Flexbox 7 Exercise Styles*/
+
+.flexEight {
+    display: flex;
+    height: 400px;
+    width: 300px;
+    background-color: #eeeeee;
+}
+
+.flexEight > .one {
+    display: flex;
+    align-items: center;
+}
+
+.flexEight > .two {
+    display: flex;
+    align-items: flex-end;
+}
+
+.flexEight > .three {
+    display: flex;
+    align-items: flex-start;
+}
