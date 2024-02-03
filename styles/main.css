@@ -103,4 +103,42 @@
     justify-content: space-evenly;
 }
 
+/* Flexbox 7 Exercise Styles*/
 
+.flexSeven {
+    display: flex;
+    justify-content: space-between;
+    height: 400px;
+    width: 500px;
+    background-color: #f1f1f1;
+}
+
+.flexSeven > .one {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.flexSeven > .two {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: #d6d6d6;
+}
+
+.flexSeven > .three {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; /*No haría falta*/
+}
+
+.flexSeven > .four {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #d6d6d6;
+}
