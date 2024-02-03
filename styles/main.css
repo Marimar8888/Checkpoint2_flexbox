@@ -75,3 +75,32 @@
 
 /* Flexbox 6 Exercise Styles*/
 
+.flexSix {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 400px;
+    background-color: #f1f1f1;
+}
+
+.flexSix > .one, .flexSix > .two, .flexSix > .three {
+    display: flex;
+}
+
+.flexSix > .one {
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+
+.flexSix > .two {
+    justify-content: space-between;
+    background-color: #d6d6d6;
+    margin-bottom: 50px;
+}
+
+.flexSix > .three {
+  
+    justify-content: space-evenly;
+}
+
+
