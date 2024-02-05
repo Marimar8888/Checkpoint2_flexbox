@@ -56,3 +56,27 @@ Todos los usuarios no suelen tener la posibilidad de realizar todas las funciona
  # Wireframe CodePen
 
  Realizado con Lucid Chart.
+
+ # Colores
+
+ ## Identificar dos o tres colores del sitio web:
+
+ https://sebkay.com/ 
+
+ Para el fondo de pantalla de toda la página web utiliza una imagen en el elemento html:
+ background-image: linear-gradient(to bottom,rgba(75,108,193,.1) 0vh,rgb(255,255,255) 100vh);
+
+ Para los textos utiliza diferentes tonalidades del negro por ejemplo:
+ - Para los enlaces del menu_item utiliza para el texto el color: #5E5E5E
+ - Para el texto del logo utiliza la clase logo_text, cuyo color: #191A1D
+ - Para los textos de la página utiliza principalmente el color: #333333
+
+Combinado con el texto que hace de enlace que utiliza tonalidades de azul como por ejemplo #4B6CC1
+
+Para la etiquita de categorias utiliza un color rojo #F9322C
+
+
+
+
+
+
