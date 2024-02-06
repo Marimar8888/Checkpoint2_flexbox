@@ -75,6 +75,27 @@ Combinado con el texto que hace de enlace que utiliza tonalidades de azul como p
 
 Para la etiquita de categorias utiliza un color rojo #F9322C
 
+# Historia de Usuario
+
+### Como usuario de Youtube sin inicio de sesión.
+
+### Quiero poder ver videos relevantes rápido y de forma segura.
+
+### Para poder acceder rápido y fácilmente al contenido que me interesa sin necesidad de crear una cuenta o iniciar sesión.
+
+### Criterios de aceptación:
+
+1.- La reproducción automática de videos debería basarse en el historial de reproducciones y las tendencias de Youtube, en lugar de en datos específicos de la cuenta de usuario, ya que no hay una sesión iniciada, donde si se puede personalizar la experiencia del usuario.
+
+2.- Si el usuario nunca ha utilizado Youtube anteriormente, la reproducción automática debería comenzar con contenido popular o tendencias relevantes.
+
+3.- La reproducción automática no debe incluir contenido inapropiado y debe ser apto para todas las edades, asegurando que la experiencia para el usuario sea segura y apropiada para cualquier edad.
+
+4.- Cuando un video llega a su fin, la aplicación debería comenzar automáticamente a reproducir un video relacionado en función del contenido del video que acaba de finalizar. 
+
+5.- La reproducción debe detenerse si el usuario pausa manualmente el video o si visualizar otro contenido.
+
+6.- La reproducción automática debe poder desactivarse fácilmente y estar disponible incluso para los usuarios que no tengan sesión iniciada.
 
 
 
