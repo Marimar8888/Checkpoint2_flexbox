@@ -98,6 +98,11 @@ Para la etiquita de categorias utiliza un color rojo #F9322C
 6.- La reproducción automática debe poder desactivarse fácilmente y estar disponible incluso para los usuarios que no tengan sesión iniciada.
 
 
+# El objetivo principal de Youtube
+
+El objetivo principal es proporcionar una plataforma lider en línea, donde los usuarios puedan visualizar, compartir y cargar videos de una gran variedad de temas. Ofrecer una experiencia de entretenimiento, informativa y educativa en todo el mundo. Conectando a personas de todo el mundo con los contenidos que les interesa y les entretenga.
+
+
 
 
 
